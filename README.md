@@ -1,6 +1,7 @@
 <!-- Main Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Animated Tech Banner" width="100%" />
+  <!-- Changed to Maxtocat Working Hard GIF -->
+  <img src="https://octodex.github.com/images/maxtocat.gif" alt="Maxtocat Working Hard: The GitHub Octocat mascot hard at work." width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Aahant Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"/></h1>
@@ -29,12 +30,7 @@
 
 ### 🏆 Featured Projects
 
-- [**ML Playground**](https://github.com/Aahant0607/ML-Playground):  
-  <sub>Hands-on demos and experiments with the latest ML models.</sub>
-- [**Quantum Qiskit Demos**](https://github.com/Aahant0607/Quantum-Qiskit):  
-  <sub>Exploring quantum computing with Qiskit and Python.</sub>
-- [**Portfolio Website**](https://github.com/Aahant0607/portfolio):  
-  <sub>My personal portfolio with blogs, projects, and more.</sub>
+<!-- Portfolio, ML Playground, and Quantum Qiskit removed as per your request -->
 
 <p align="center">
   <a href="https://github.com/Aahant0607?tab=repositories" target="_blank">
@@ -135,5 +131,6 @@
 
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4Vf80F6r8bO5C/giphy.gif" alt="Animated Footer" width="100%" />
+  <!-- Changed to Pro Level Debugging GIF -->
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Pro Level Debugging: A GIF showing bugs being squashed or code being debugged." width="100%" />
 </p>
