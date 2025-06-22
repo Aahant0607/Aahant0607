@@ -1,7 +1,7 @@
 <!-- Main Animated Banner -->
 <p align="center">
   <!-- Changed to Maxtocat Working Hard GIF -->
-src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGd0c2FubGF4dG4zOHJ3ODdlNjV1eXo2ZmRnZXZjZ3FtZTlnYWJybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGd0c2FubGF4dG4zOHJ3ODdlNjV1eXo2ZmRnZXZjZ3FtZTlnYWJybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Aahant Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"/></h1>
@@ -131,6 +131,6 @@ src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGd0c2FubGF4dG4zOHJ3ODdlN
 
 <!-- Animated Footer -->
 <p align="center">
-  <!-- Changed to Pro Level Debugging GIF -->
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Pro Level Debugging: A GIF showing bugs being squashed or code being debugged." width="100%" />
+  <!-- Better Pro Level Debugging GIF -->
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Coding: Animated guy programming with moving code lines" width="100%" />
 </p>
