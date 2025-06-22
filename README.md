@@ -1,7 +1,7 @@
 <!-- Main Animated Banner -->
 <p align="center">
   <!-- Changed to Maxtocat Working Hard GIF -->
-  <img src="https://octodex.github.com/images/maxtocat.gif" alt="Maxtocat Working Hard: The GitHub Octocat mascot hard at work." width="100%" />
+src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGd0c2FubGF4dG4zOHJ3ODdlNjV1eXo2ZmRnZXZjZ3FtZTlnYWJybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Aahant Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"/></h1>
