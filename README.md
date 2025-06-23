@@ -131,6 +131,6 @@
 
 <!-- Animated Footer -->
 <p align="center">
-  <!-- Better Pro Level Debugging GIF -->
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Coding: Animated guy programming with moving code lines" width="100%" />
+  <!-- Fintech Digital Currency GIF -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Fintech Digital Currency" width="100%" />
 </p>
