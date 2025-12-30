@@ -35,15 +35,23 @@
 <img src="https://img.shields.io/badge/Core_Languages-000000?style=flat-square&color=0d1117" />
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,matlab,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,matlab,r&theme=dark" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence_%26_Data-000000?style=flat-square&color=0d1117" />
+<img src="https://img.shields.io/badge/Deep_Learning_&_Vision-000000?style=flat-square&color=0d1117" />
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy,anaconda,r&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,huggingface&theme=dark" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data_Science_&_Database-000000?style=flat-square&color=0d1117" />
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,anaconda,postgres,mysql,sqlite&theme=dark" />
 </a>
 
 <br><br>
@@ -51,73 +59,13 @@
 <img src="https://img.shields.io/badge/DevOps_&_Tools-000000?style=flat-square&color=0d1117" />
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode,linux,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode,linux,bash,postman&theme=dark" />
 </a>
 
 </div>
 
----
-
-### 🧪 Featured Engineering
+<br><br>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="180"><b>Project</b></td>
-    <td align="center" width="200"><b>The Stack</b></td>
-    <td align="left"><b>Technical Impact</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Reality Check</b><br><i>(Deepfake Detection)</i></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-    </td>
-    <td>MVP deploying <b>ROBERTa</b> (text) and <b>SigLIP</b> (image) models with real-time video frame extraction.</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Python-Error-Fixer</b><br><i>(LLM Agent)</i></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/LLM-FLAN--T5-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white"/>
-    </td>
-    <td>Automated self-healing code agent trained on <b>QuixBugs</b> to detect and patch runtime errors.</td>
-  </tr>
-  <tr>
-    <td align="center"><b>CycleGAN SAR-to-EO</b><br><i>(Satellite Vision)</i></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/U--Net-green?style=flat-square"/>
-      <img src="https://img.shields.io/badge/EfficientNet-FF6F00?style=flat-square"/>
-    </td>
-    <td>Synthetic image translation (SAR to Optical) using a <b>CycleGAN</b> architecture on the Sen12MS dataset.</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Resume Screener</b><br><i>(NLP Pipeline)</i></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/NLP-spaCy-09D3AC?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square"/>
-    </td>
-    <td>Automated ranking system leveraging <b>TF-IDF</b> vectorization to match candidate skills to job specs.</td>
-  </tr>
-</table>
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aahant0607&show_icons=true&theme=github_dark&hide_border=true" alt="Aahant's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aahant0607&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aahant0607&theme=github_dark&hide_border=true" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <br>
   <i>"Code is poetry written for machines."</i>
 </div>
