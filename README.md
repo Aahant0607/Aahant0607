@@ -74,7 +74,7 @@
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
     </td>
-    [cite_start]<td>MVP deploying <b>ROBERTa</b> (text) and <b>SigLIP</b> (image) models with real-time video frame extraction[cite: 24, 25, 26].</td>
+    <td>MVP deploying <b>ROBERTa</b> (text) and <b>SigLIP</b> (image) models with real-time video frame extraction.</td>
   </tr>
   <tr>
     <td align="center"><b>Python-Error-Fixer</b><br><i>(LLM Agent)</i></td>
@@ -82,7 +82,7 @@
       <img src="https://img.shields.io/badge/LLM-FLAN--T5-blue?style=flat-square"/>
       <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white"/>
     </td>
-    [cite_start]<td>Automated self-healing code agent trained on <b>QuixBugs</b> to detect and patch runtime errors[cite: 27, 28, 29].</td>
+    <td>Automated self-healing code agent trained on <b>QuixBugs</b> to detect and patch runtime errors.</td>
   </tr>
   <tr>
     <td align="center"><b>CycleGAN SAR-to-EO</b><br><i>(Satellite Vision)</i></td>
@@ -90,7 +90,7 @@
       <img src="https://img.shields.io/badge/U--Net-green?style=flat-square"/>
       <img src="https://img.shields.io/badge/EfficientNet-FF6F00?style=flat-square"/>
     </td>
-    [cite_start]<td>Synthetic image translation (SAR to Optical) using a <b>CycleGAN</b> architecture on the Sen12MS dataset[cite: 32, 33].</td>
+    <td>Synthetic image translation (SAR to Optical) using a <b>CycleGAN</b> architecture on the Sen12MS dataset.</td>
   </tr>
   <tr>
     <td align="center"><b>Resume Screener</b><br><i>(NLP Pipeline)</i></td>
@@ -98,7 +98,7 @@
       <img src="https://img.shields.io/badge/NLP-spaCy-09D3AC?style=flat-square"/>
       <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square"/>
     </td>
-    [cite_start]<td>Automated ranking system leveraging <b>TF-IDF</b> vectorization to match candidate skills to job specs[cite: 30, 31].</td>
+    <td>Automated ranking system leveraging <b>TF-IDF</b> vectorization to match candidate skills to job specs.</td>
   </tr>
 </table>
 </div>
@@ -108,13 +108,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aahant0607&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Aahant's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aahant0607&show_icons=true&theme=github_dark&hide_border=true" alt="Aahant's Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aahant0607&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aahant0607&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aahant0607&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aahant0607&theme=github_dark&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
