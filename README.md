@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Aahant+Kumar;Building+Intelligent+Pipelines;Deep+Learning+%26+Computer+Vision+Architect;Exploring+Generative+AI+%26+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Aahant+Kumar;Building+Intelligent+Pipelines;Deep+Learning+%26+Computer+Vision+Architect;Exploring+Generative+AI+%26+LLMs;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,8 +23,15 @@
 <br />
 
 <div align="center">
-  <i>"I bridge the gap between Hardware, Algorithms, and Autonomous Agents."</i>
+  <h3>👋 About Me</h3>
+  <p width="600px">
+    I am an engineer passionate about bridging the gap between <b>raw hardware</b>, <b>web systems</b>, and <b>cognitive intelligence</b>. <br>
+    My work focuses on building autonomous agents, optimizing complex data pipelines, and exploring the frontiers of Deep Learning and Computer Vision. <br>
+    Whether it's deploying <b>LLMs</b>, processing satellite imagery, or architecting full-stack web solutions, I build systems that are efficient, scalable, and intelligent.
+  </p>
 </div>
+
+<br>
 
 ---
 
@@ -35,37 +42,27 @@
 <img src="https://img.shields.io/badge/Core_Languages-000000?style=flat-square&color=0d1117" />
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,matlab,r&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,matlab,sql,js&theme=dark" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Deep_Learning_&_Vision-000000?style=flat-square&color=0d1117" />
+<img src="https://img.shields.io/badge/AI_&_Data_Science-000000?style=flat-square&color=0d1117" />
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,huggingface&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy,anaconda,r&theme=dark" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Data_Science_&_Database-000000?style=flat-square&color=0d1117" />
+<img src="https://img.shields.io/badge/Web_Development_&_Backend-000000?style=flat-square&color=0d1117" />
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,anaconda,postgres,mysql,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,tailwind,mongodb,express,nextjs&theme=dark" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/DevOps_&_Tools-000000?style=flat-square&color=0d1117" />
+<img src="https://img.shields.io/badge/Tools_&_Deployment-000000?style=flat-square&color=0d1117" />
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode,linux,bash,postman&theme=dark" />
-</a>
-
-</div>
-
-<br><br>
-
-<div align="center">
-  <i>"Code is poetry written for machines."</i>
-</div>
